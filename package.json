@@ -1,0 +1,18 @@
+{
+	"author": "Rich Collins <richcollins@gmail.com> (http://twitter.com/richcollins)",
+	"name": "ideal",
+	"description": "javascript utility lib",
+	"main": "./lib/ideal.js",
+	"version": "0.0.1",
+	"homepage": "https://github.com/richcollins/ideal",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/richcollins/ideal.git"
+	},
+	"engines": {
+		"node": "~0.6.14"
+	},
+	"dependencies": {},
+	"devDependencies": {},
+	"optionalDependencies": {}
+}
