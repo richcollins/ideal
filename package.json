@@ -1,7 +1,7 @@
 {
 	"author": "Rich Collins <richcollins@gmail.com> (http://twitter.com/richcollins)",
 	"name": "ideal",
-	"description": "javascript utility lib",
+	"description": "Javascript modifications inspired by Io",
 	"main": "./lib/ideal.js",
 	"version": "0.0.1",
 	"homepage": "https://github.com/richcollins/ideal",
