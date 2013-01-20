@@ -1,0 +1,1 @@
+ideal makes working with javascript inheritance easier and extends the native javascript objects with new functionality.
