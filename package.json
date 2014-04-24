@@ -3,7 +3,7 @@
 	"name": "ideal",
 	"description": "Javascript modifications inspired by Io",
 	"main": "./lib/ideal.js",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"homepage": "https://github.com/richcollins/ideal",
 	"repository": {
 		"type": "git",
@@ -14,5 +14,8 @@
 	},
 	"dependencies": {},
 	"devDependencies": {},
-	"optionalDependencies": {}
+	"optionalDependencies": {},
+	"contributors": [
+		"Matt Gardner <iwaffles@gmail.com> (http://twitter.com/iwaffles)"
+	]
 }
